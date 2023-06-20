@@ -13,16 +13,7 @@ English:
     5. Returned value must be rounded to one decimal places
     6. Run doctests - all must succeed
 
-Polish:
-    1. Zdefiniuj klasę `Stats`
-    2. Zdefiniuj metodę `mean()` w klasie `Stats`
-    3. Metoda przyjmuje `data: list[float]` jako argument
-    4. Metoda zwraca średnią arytmetyczną z `data`
-    5. Zwracana wartość ma być zaokrąglona do jednego miejsca po przecinku
-    6. Uruchom doctesty - wszystkie muszą się powieść
 
-Hints:
-    * `round()`
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

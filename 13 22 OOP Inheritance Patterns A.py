@@ -1,9 +1,5 @@
 """
 * Assignment: OOP InheritancePatterns Simple
-* Required: yes
-* Complexity: easy
-* Lines of code: 4 lines
-* Time: 3 min
 
 English:
     1. Create class `Account`

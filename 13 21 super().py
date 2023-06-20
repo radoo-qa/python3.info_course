@@ -1,10 +1,4 @@
 """
-* Assignment: OOP Overload Super
-* Required: yes
-* Complexity: easy
-* Lines of code: 6 lines
-* Time: 5 min
-
 English:
     1. Create class `Astronaut` which inherits from `Person` +
     2. Class `Astronaut` takes two arguments `name` and `mission`

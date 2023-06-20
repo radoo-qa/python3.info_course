@@ -1,9 +1,5 @@
 """
 * Assignment: OOP Method Nested
-* Required: yes
-* Complexity: medium
-* Lines of code: 17 lines
-* Time: 13 min
 
 English:
     1. Define class `Iris`
@@ -27,31 +23,6 @@ English:
     8. Do not use `@dataclass`
     9. Run doctests - all must succeed
 
-Polish:
-    1. Zdefiniuj klasę `Iris`
-    2. `Iris` ma:
-        a. "sepal_length" typu `float`
-        b. "sepal_width" typu `float`
-        c. "petal_length" typu `float`
-        d. "petal_width" typu `float`
-        e. "species" typu `str`
-    3. `Iris` może:
-        a. Zwrócić liczbę pól typu `float`
-        b. Zwrócić listę wartości wszystkich pól typu `float`
-        c. Zwrócić sumę wartości pól typu `float`
-        d. Zwrócić średnią arytmetyczną wartość pól typu `float`
-    4. Użyj iterowania po `vars(self)` do zwrócenia wartości pól numerycznych
-    7. Method `.show()` returns sumę, średnią oraz nazwę gatunku, przykład:
-       a. 'total=10.20 mean=2.55 setosa'
-       b. 'total=15.50 mean=3.88 virginica'
-    8. Nie używaj `@dataclass`
-    9. Uruchom doctesty - wszystkie muszą się powieść
-
-Hints:
-    * `type(value) is float`
-    * `vars(self).values()`
-    * `{total=:.2f}`
-    * `{mean=:.2f}`
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

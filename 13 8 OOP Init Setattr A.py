@@ -1,9 +1,5 @@
 """
 * Assignment: OOP Init Define
-* Required: yes
-* Complexity: easy
-* Lines of code: 6 lines
-* Time: 5 min
 
 English:
     1. Modify code below
@@ -12,12 +8,6 @@ English:
     3. Attributes must be set from arguments passed at initialization
     4. Run doctests - all must succeed
 
-Polish:
-    1. Zmodyfikuj kod poniżej
-    2. Zaimplementuj metodę `__init__()` aby ustawiała atrybuty:
-       `self.name`, `self.country`, `self.date`
-    3. Atrybuty muszą być ustawiane z argumentów podanych przy inicjalizacji
-    4. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

@@ -1,9 +1,5 @@
 """
 * Assignment: OOP Init Define
-* Required: yes
-* Complexity: easy
-* Lines of code: 4 lines
-* Time: 5 min
 
 English:
     1. Modify code below
@@ -11,13 +7,6 @@ English:
     3. Signature should reflect class attributes
     4. Method `__init__()` raises exception `NotImplementedError`
     5. Run doctests - all must succeed
-
-Polish:
-    1. Zmodyfikuj kod poniżej
-    2. Zdefiniuj metodę `__init__()` w obu klasach
-    3. Sygnaturą powinna odpowiadać atrybutom klasy
-    4. Metoda `__init__()` ma podnosić wyjątek `NotImplementedError`
-    5. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

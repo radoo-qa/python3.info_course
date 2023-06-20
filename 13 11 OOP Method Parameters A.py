@@ -1,9 +1,5 @@
 """
 * Assignment: OOP Method Syntax
-* Required: yes
-* Complexity: easy
-* Lines of code: 3 lines
-* Time: 3 min
 
 English:
     1. Define class `Calculator`
@@ -12,12 +8,6 @@ English:
     4. Method returns sum of `a` and `b`
     5. Run doctests - all must succeed
 
-Polish:
-    1. Zdefiniuj klasę `Calculator`
-    2. Zdefiniuj metodę `add` w klasie `Calculator`
-    3. Metoda `add` przyjmuje `a` i `b` jako argumenty
-    4. Metoda zwraca sumę `a` i `b`
-    5. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

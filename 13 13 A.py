@@ -1,5 +1,4 @@
 """
-
 English:
     1. Create class `Iris` with `features: list[float]` and `label: str` fields
     2. For each row in `DATA` create `Iris` instance with row values

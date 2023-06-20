@@ -12,12 +12,6 @@ English:
        with all attributes and values of `nasa` object
     3. Run doctests - all must succeed
 
-Polish:
-    1. Zdefiniuj `result_mark: dict[str,str]`
-       z wszystkimi atrybutami i wartościami obiektu `mark`
-    2. Zdefiniuj `result_nasa: dict[str,str]`
-       z wszystkimi atrybutami i wartościami obiektu `nasa`
-    3. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

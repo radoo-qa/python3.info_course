@@ -12,12 +12,6 @@ English:
        b. Nasa, USA, 1969-07-21
     3. Run doctests - all must succeed
 
-Polish:
-    1. Zmodyfikuj kod poniżej
-    2. Dodaj anotację typów atrybutów by zamodelować dane:
-       a. Mark, USA, 1969-07-21
-       b. Nasa, USA, 1969-07-21
-    3. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0

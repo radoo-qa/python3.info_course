@@ -1,9 +1,5 @@
 """
 * Assignment: OOP Init SetAttrPositional
-* Required: yes
-* Complexity: easy
-* Lines of code: 2 lines
-* Time: 3 min
 
 English:
     1. Modify code below
@@ -11,11 +7,6 @@ English:
     3. Use positional arguments to pass values at the initialization
     4. Run doctests - all must succeed
 
-Polish:
-    1. Zmodyfikuj kod poniżej
-    2. Stwórz instancje klas `Astronaut` i `SpaceAgency`
-    3. Użyj argumentów pozycyjnych do przekazania wartości przy inicjalizacji
-    4. Uruchom doctesty - wszystkie muszą się powieść
 
 Tests:
     >>> import sys; sys.tracebacklimit = 0
